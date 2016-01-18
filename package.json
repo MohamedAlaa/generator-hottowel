@@ -26,17 +26,17 @@
     "yeoman-generator"
   ],
   "dependencies": {
-    "chalk": "^0.5.1",
-    "yargs": "^3.16.1",
-    "yeoman-generator": "^0.17.7",
-    "yosay": "^0.3.0"
+    "chalk": "^1.1.1",
+    "yargs": "^3.32.0",
+    "yeoman-generator": "^0.22.4",
+    "yosay": "^1.1.0"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-bump": "^0.3.1",
-    "gulp-load-plugins": "^0.10.0",
+    "gulp-bump": "^1.0.0",
+    "gulp-load-plugins": "^1.2.0",
     "gulp-task-listing": "^1.0.1",
-    "gulp-util": "^3.0.6",
-    "yargs": "^3.16.1"
+    "gulp-util": "^3.0.7",
+    "yargs": "^3.32.0"
   }
 }
